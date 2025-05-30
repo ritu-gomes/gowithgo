@@ -23,5 +23,10 @@ func main() {
 	fmt.Printf("TRIANGULO: %.3f\nCIRCULO: %.3f\nTRAPEZIO: %.3f\nQUADRADO: %.3f\nRETANGULO: %.3f\n", areaOfTriangle, areaOfCircle, areaOfTrapezium, areaOfSquare, areaOfRectangle)
 
 	// 12.7 10.4 15.2
+// 	TRIANGULO: 96.520
+// CIRCULO: 725.833
+// TRAPEZIO: 175.560
+// QUADRADO: 108.160
+// RETANGULO: 132.080
 
 }
